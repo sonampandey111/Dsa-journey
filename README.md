@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sonampandey111/Dsa-journey/tree/master/0013-roman-to-integer) |
 | [0257-binary-tree-paths](https://github.com/sonampandey111/Dsa-journey/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sonampandey111/Dsa-journey/tree/master/0345-reverse-vowels-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sonampandey111/Dsa-journey/tree/master/0257-binary-tree-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/sonampandey111/Dsa-journey/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
