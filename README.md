@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sonampandey111/Dsa-journey/tree/master/0036-valid-sudoku) |
+| [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sonampandey111/Dsa-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bit Manipulation
 |  |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/sonampandey111/Dsa-journey/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
