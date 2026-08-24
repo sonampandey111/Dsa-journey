@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sonampandey111/Dsa-journey/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0414-third-maximum-number) |
+| [0500-keyboard-row](https://github.com/sonampandey111/Dsa-journey/tree/master/0500-keyboard-row) |
 | [1480-running-sum-of-1d-array](https://github.com/sonampandey111/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sonampandey111/Dsa-journey/tree/master/0036-valid-sudoku) |
 | [0290-word-pattern](https://github.com/sonampandey111/Dsa-journey/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sonampandey111/Dsa-journey/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/sonampandey111/Dsa-journey/tree/master/0500-keyboard-row) |
 ## Matrix
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sonampandey111/Dsa-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/sonampandey111/Dsa-journey/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/sonampandey111/Dsa-journey/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/sonampandey111/Dsa-journey/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/sonampandey111/Dsa-journey/tree/master/0504-base-7) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sonampandey111/Dsa-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Backtracking
