@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sonampandey111/Dsa-journey/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/sonampandey111/Dsa-journey/tree/master/0500-keyboard-row) |
+| [0724-find-pivot-index](https://github.com/sonampandey111/Dsa-journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sonampandey111/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sonampandey111/Dsa-journey/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/sonampandey111/Dsa-journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/sonampandey111/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
