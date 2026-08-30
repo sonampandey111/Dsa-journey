@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sonampandey111/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sonampandey111/Dsa-journey/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sonampandey111/Dsa-journey/tree/master/0944-delete-columns-to-make-sorted) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonampandey111/Dsa-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/sonampandey111/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sonampandey111/Dsa-journey/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/sonampandey111/Dsa-journey/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/sonampandey111/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sonampandey111/Dsa-journey/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/sonampandey111/Dsa-journey/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sonampandey111/Dsa-journey/tree/master/0504-base-7) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonampandey111/Dsa-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sonampandey111/Dsa-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Bit Manipulation
 |  |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sonampandey111/Dsa-journey/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sonampandey111/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sonampandey111/Dsa-journey/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/sonampandey111/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
