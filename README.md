@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sonampandey111/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sonampandey111/Dsa-journey/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sonampandey111/Dsa-journey/tree/master/0944-delete-columns-to-make-sorted) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sonampandey111/Dsa-journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonampandey111/Dsa-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/sonampandey111/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sonampandey111/Dsa-journey/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/sonampandey111/Dsa-journey/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/sonampandey111/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sonampandey111/Dsa-journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sonampandey111/Dsa-journey/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/sonampandey111/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sonampandey111/Dsa-journey/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sonampandey111/Dsa-journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/sonampandey111/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 ## Design
