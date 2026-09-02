@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sonampandey111/Dsa-journey/tree/master/0013-roman-to-integer) |
+| [0326-power-of-three](https://github.com/sonampandey111/Dsa-journey/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/sonampandey111/Dsa-journey/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sonampandey111/Dsa-journey/tree/master/0504-base-7) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/sonampandey111/Dsa-journey/tree/master/0944-delete-columns-to-make-sorted) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sonampandey111/Dsa-journey/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
