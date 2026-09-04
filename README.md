@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sonampandey111/Dsa-journey/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/sonampandey111/Dsa-journey/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sonampandey111/Dsa-journey/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonampandey111/Dsa-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
@@ -121,4 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/sonampandey111/Dsa-journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sonampandey111/Dsa-journey/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
