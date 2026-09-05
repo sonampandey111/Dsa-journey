@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sonampandey111/Dsa-journey/tree/master/0036-valid-sudoku) |
 | [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/sonampandey111/Dsa-journey/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/sonampandey111/Dsa-journey/tree/master/0500-keyboard-row) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sonampandey111/Dsa-journey/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/sonampandey111/Dsa-journey/tree/master/0036-valid-sudoku) |
+| [0268-missing-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sonampandey111/Dsa-journey/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/sonampandey111/Dsa-journey/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/sonampandey111/Dsa-journey/tree/master/0500-keyboard-row) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sonampandey111/Dsa-journey/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sonampandey111/Dsa-journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sonampandey111/Dsa-journey/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/sonampandey111/Dsa-journey/tree/master/0415-add-strings) |
@@ -84,17 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sonampandey111/Dsa-journey/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sonampandey111/Dsa-journey/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sonampandey111/Dsa-journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
