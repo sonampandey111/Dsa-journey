@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sonampandey111/Dsa-journey/tree/master/0036-valid-sudoku) |
+| [0090-subsets-ii](https://github.com/sonampandey111/Dsa-journey/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/sonampandey111/Dsa-journey/tree/master/0303-range-sum-query-immutable) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/sonampandey111/Dsa-journey/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/sonampandey111/Dsa-journey/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/sonampandey111/Dsa-journey/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sonampandey111/Dsa-journey/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sonampandey111/Dsa-journey/tree/master/0389-find-the-difference) |
