@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/sonampandey111/Dsa-journey/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/sonampandey111/Dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sonampandey111/Dsa-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/sonampandey111/Dsa-journey/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sonampandey111/Dsa-journey/tree/master/0944-delete-columns-to-make-sorted) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sonampandey111/Dsa-journey/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sonampandey111/Dsa-journey/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sonampandey111/Dsa-journey/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sonampandey111/Dsa-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonampandey111/Dsa-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sonampandey111/Dsa-journey/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sonampandey111/Dsa-journey/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
