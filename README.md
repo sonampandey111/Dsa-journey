@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sonampandey111/Dsa-journey/tree/master/0036-valid-sudoku) |
+| [0051-n-queens](https://github.com/sonampandey111/Dsa-journey/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/sonampandey111/Dsa-journey/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/sonampandey111/Dsa-journey/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/sonampandey111/Dsa-journey/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/sonampandey111/Dsa-journey/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0509-fibonacci-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sonampandey111/Dsa-journey/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
