@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sonampandey111/Dsa-journey/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/sonampandey111/Dsa-journey/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/sonampandey111/Dsa-journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sonampandey111/Dsa-journey/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sonampandey111/Dsa-journey/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/sonampandey111/Dsa-journey/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sonampandey111/Dsa-journey/tree/master/0013-roman-to-integer) |
+| [0079-word-search](https://github.com/sonampandey111/Dsa-journey/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/sonampandey111/Dsa-journey/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/sonampandey111/Dsa-journey/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sonampandey111/Dsa-journey/tree/master/0345-reverse-vowels-of-a-string) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sonampandey111/Dsa-journey/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/sonampandey111/Dsa-journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sonampandey111/Dsa-journey/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/sonampandey111/Dsa-journey/tree/master/0257-binary-tree-paths) |
 ## Tree
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sonampandey111/Dsa-journey/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/sonampandey111/Dsa-journey/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
