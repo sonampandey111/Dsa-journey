@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sonampandey111/Dsa-journey/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/sonampandey111/Dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sonampandey111/Dsa-journey/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/sonampandey111/Dsa-journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sonampandey111/Dsa-journey/tree/master/0090-subsets-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sonampandey111/Dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sonampandey111/Dsa-journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sonampandey111/Dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -182,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/sonampandey111/Dsa-journey/tree/master/1267-count-servers-that-communicate) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sonampandey111/Dsa-journey/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sonampandey111/Dsa-journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
