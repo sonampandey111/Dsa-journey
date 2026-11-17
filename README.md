@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sonampandey111/Dsa-journey/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/sonampandey111/Dsa-journey/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/sonampandey111/Dsa-journey/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sonampandey111/Dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sonampandey111/Dsa-journey/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sonampandey111/Dsa-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sonampandey111/Dsa-journey/tree/master/0268-missing-number) |
@@ -195,8 +196,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sonampandey111/Dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sonampandey111/Dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sonampandey111/Dsa-journey/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sonampandey111/Dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sonampandey111/Dsa-journey/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
