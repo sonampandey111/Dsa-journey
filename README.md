@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1267-count-servers-that-communicate](https://github.com/sonampandey111/Dsa-journey/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonampandey111/Dsa-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sonampandey111/Dsa-journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/sonampandey111/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sonampandey111/Dsa-journey/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sonampandey111/Dsa-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sonampandey111/Dsa-journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sonampandey111/Dsa-journey/tree/master/1352-product-of-the-last-k-numbers) |
 ## String
 |  |
 | ------- |
@@ -148,12 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sonampandey111/Dsa-journey/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sonampandey111/Dsa-journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sonampandey111/Dsa-journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sonampandey111/Dsa-journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/sonampandey111/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sonampandey111/Dsa-journey/tree/master/3364-minimum-positive-sum-subarray) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sonampandey111/Dsa-journey/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sonampandey111/Dsa-journey/tree/master/1352-product-of-the-last-k-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sonampandey111/Dsa-journey/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sonampandey111/Dsa-journey/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
